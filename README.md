@@ -195,7 +195,7 @@ Check the expiry of the session after one minute.<br>
 Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
 it has to go to show the active cookie list when you press the link go to the active cookie list<br>
 
-[Output Screenshot](https://github.com/Rakeshpattar/Advanced_Java-/blob/main/Exp7-JSPSessionManagement/7b_setCookie.jsp)<br>
+[Output Screenshot](https://github.com/Rakeshpattar/Advanced_Java-/blob/main/Exp7-JSPSessionManagement/7b_setCookie.jpg)<br>
 
 ---
 
@@ -239,14 +239,14 @@ HTML and JSP to get the field and display the results respectively<br>
 coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
 results respectively<br>
 [Program]()<br>
-[Output Screenshot](https://github.com/Rakeshpattar/Advanced_Java-/blob/main/Exp9-SQL%2BJDBC/9B/9b_query.jpeg)<br>
+[Output Screenshot](https://github.com/Rakeshpattar/Advanced_Java-/blob/main/Exp9-SQL%2BJDBC/9B/9b_Mysql_query.jpg)<br>
 
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
 the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
 to get the field and display the results respectively<br>
 [Program]()<br>
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/Rakeshpattar/Advanced_Java-/blob/main/Exp9-SQL%2BJDBC/9C/9c_filterReport.jpg)<br>
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
