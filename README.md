@@ -204,20 +204,17 @@ it has to go to show the active cookie list when you press the link go to the ac
 8a. Read all the existing records from the table coffee which is from the database test and insert a
 new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
 JSP to get the fields and display the results respectively<br>
-[Program]()<br>
 [Output Screenshot](https://github.com/Rakeshpattar/Advanced_Java-/blob/main/Exp8-SQL%2BJDBC/8A/8a_select%20and%20insert.jpeg)<br>
 
 8b. Read all the existing records from the table coffee which is from the database test and update an
 existing coffee product in the table with its id. [Create a table coffee with fields
 ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively<br>
-[Program]()<br>
 [Output Screenshot](https://github.com/Rakeshpattar/Advanced_Java-/blob/main/Exp8-SQL%2BJDBC/8A/8a_select%20and%20insert.jpeg)<br>
 
 8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
 HTML and JSP to get the fields and display the results respectively<br>
-[Program]()<br>
 [Output Screenshot](https://github.com/Rakeshpattar/Advanced_Java-/blob/main/Exp8-SQL%2BJDBC/8C/8c_JDBC_append.jpg)<br>
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
